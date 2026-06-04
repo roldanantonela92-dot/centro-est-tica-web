@@ -1,8 +1,8 @@
-# Centro Estética Web
+Centro Estética Web
 
 Sistema web desarrollado para la gestión de centros de estética, permitiendo la administración de usuarios, servicios y reservas de turnos.
 
-## Tecnologías utilizadas:
+Tecnologías utilizadas:
 
 * PHP
 * MySQL
@@ -11,17 +11,17 @@ Sistema web desarrollado para la gestión de centros de estética, permitiendo l
 * JavaScript
 * XAMPP
 
-## Funcionalidades principales:
+Funcionalidades principales:
 
 * Registro e inicio de sesión de usuarios
-* Reserva de turnos
-* Gestión de tratamientos y servicios
+* Reserva de turnos online
+* Gestión de tratamientos y promociones
 * Panel de administración
 * Gestión de usuarios
 * Historial de citas
 * Configuración de la plataforma
 
-## Mi participación:
+Mi participación:
 
 * Relevamiento de requisitos con cliente real
 * Entrevistas para obtención de requerimientos
@@ -31,10 +31,39 @@ Sistema web desarrollado para la gestión de centros de estética, permitiendo l
 * Testing y validación de funcionalidades
 * Documentación del proyecto
 
-## Capturas:
+Capturas del sistema:
 
-Las capturas del sistema pueden encontrarse en la carpeta `Screenshots`.
+### Página principal
 
-## Base de datos:
+![Página principal](Screenshots/pagina_principal.jpg)
 
-Se incluye el script SQL necesario para la creación de la base de datos.
+### Inicio de sesión
+
+![Login](Screenshots/login.jpg)
+
+### Registro de usuarios
+
+![Registro](Screenshots/registro.jpg)
+
+### Reserva de turnos
+
+![Reserva de turnos](Screenshots/reserva_turnos.jpg)
+
+### Turno confirmado
+
+![Turno confirmado](Screenshots/reserva_turnos_confirmada.jpg)
+
+### Panel de administración
+
+![Configuración administración](Screenshots/configuraciones_admin.jpg)
+
+### Historial de citas
+
+![Historial de citas](Screenshots/historial_citas_admin.jpg)
+
+## Base de datos
+
+El proyecto incluye el script SQL para la creación de la base de datos:
+
+* esteticadb.sql
+
